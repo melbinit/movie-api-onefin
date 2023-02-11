@@ -3,7 +3,7 @@
 Currently using sqlite database.
 
 ```python
-virtualenv venv\
+virtualenv venv
 venv/Scripts/activate (windows)\
 pip install -r requirements.txt
 ```
