@@ -4,7 +4,7 @@ Currently using sqlite database.
 
 ```python
 virtualenv venv
-venv/Scripts/activate (windows)\
+venv/Scripts/activate (windows)
 pip install -r requirements.txt
 ```
 
